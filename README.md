@@ -1,5 +1,5 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=Venom&color=random&height=150&section=header&text=Soongchul2's_Github&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=Venom&color=random&height=150&section=header&text=Soongchul2's_Github&fontColor=ffd94d&fontSize=50&animation=fadeIn&fontAlignY=55)
 
 
 ### Hi there 👋
