@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 -->
-
-<h3 align="left">📫 Contact 📫</h3>
+---
+<h3 align="left"> Contact </h3>
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
