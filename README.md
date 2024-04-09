@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongchul2&catppuccin_latte)
 
 
-<--
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
@@ -33,9 +32,3 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
--->
-
-<h3 align="center">📫 Contact 📫</h3>
-<p align="center">
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
