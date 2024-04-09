@@ -1,3 +1,7 @@
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=Slice&color=random&height=150&section=header&text=Soongchul2's_Github&fontColor=random&fontSize=50&animation=fadeIn&fontAlignY=55)
+</div>
+
 ### Hi there 👋
 
 <!--
