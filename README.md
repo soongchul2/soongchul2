@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soongchul2&show_icons=true&theme=catppuccin_latte)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongchul2&catppuccin_latte)
