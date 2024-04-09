@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3>📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:moon0310@donga.ac.kr">
     <img
